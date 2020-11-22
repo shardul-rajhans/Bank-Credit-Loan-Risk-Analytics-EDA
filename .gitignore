@@ -2,3 +2,5 @@
 *.csv
 .ipynb_checkpoints/shardul_sohini_previous_application_data_eda-checkpoint.ipynb
 .ipynb_checkpoints/shardul_sohini_application_data_eda-checkpoint.ipynb
+merge_application_and_previous.ipynb
+.ipynb_checkpoints/merge_application_and_previous-checkpoint.ipynb
