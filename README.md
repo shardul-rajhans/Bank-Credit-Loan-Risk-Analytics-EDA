@@ -1,2 +1,3 @@
 # eda_project
- This is the EDA (Exploratory Data Analysis) Group Assignment.
+- This is the Exploratory Data Analysis Group Assignment.
+- Note: The dataset used in this assignment is picked up from upgrad. It's just for learning purpose.
